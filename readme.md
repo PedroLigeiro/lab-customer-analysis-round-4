@@ -2,7 +2,7 @@
 
 # Lab | Customer Analysis Round 4
 
-In today's lesson we talked about continuous distributions (mainly normal distribution), linear regression and how multicollinearity can impact the model. In this lab, we will test your knowledge on those things using the `marketing_customer_analysis.csv` file. You have used the same data in the previous lab (round 3). You can continue using the same jupyter file. The file can be found in the `files_for_lab` folder.
+In today's lesson we talked about continuous distributions (mainly normal distribution), linear regression and how multicollinearity can impact the model. In this lab, we will test your knowledge on those things using the same data file that you have used in the previous lab (round 3). You can continue using the same Jupyter notebook.
 
 ### Get the data 
 
